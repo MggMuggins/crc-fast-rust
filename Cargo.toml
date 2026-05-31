@@ -70,7 +70,7 @@ crc = "3.4"
 criterion = "0.7"
 cbindgen = "0.29"
 proptest = "1.9"
-rand = "0.9"
+rand = "0.10"
 regex = "1.12"
 wasm-bindgen-test = "0.3"
 
